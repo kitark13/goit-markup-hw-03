@@ -87,8 +87,6 @@ img {
   display: flex;
   align-items: center;
   gap: 40px;
-  padding-top: 24px;
-  padding-bottom: 24px;
 }
 
 .nav-link {
@@ -100,6 +98,8 @@ img {
   letter-spacing: 0.02em;
   color: #2e2f42;
   text-decoration: none;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 .nav-link:hover,
