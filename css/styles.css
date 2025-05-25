@@ -46,25 +46,25 @@ img {
 .header-div {
   display: flex;
   align-items: center;
+}
 
-  .logo-header {
-    margin-right: 76px;
-  }
+.logo-header {
+  margin-right: 76px;
+}
 
-  .logo {
-    font-family: "Raleway", sans-serif;
-    font-weight: 700;
-    font-size: 18px;
+.logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
 
-    /* line-height: 21px; */
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #4d5ae5;
-    text-decoration: none;
-    padding-top: 24px;
-    padding-bottom: 24px;
-  }
+  /* line-height: 21px; */
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+  text-decoration: none;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 .studio {
@@ -78,11 +78,6 @@ img {
   text-transform: uppercase;
   color: #2e2f42;
   text-decoration: none;
-}
-
-.header-nav {
-  display: flex;
-  align-items: center;
 }
 
 .header-list {
