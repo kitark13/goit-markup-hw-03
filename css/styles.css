@@ -40,14 +40,18 @@ img {
 }
 
 .header {
-  padding-top: 24px;
-  padding-bottom: 24px;
   border-bottom: 1px solid #e7e9fc;
 }
 
 .header-container {
+  padding-top: 24px;
+  padding-bottom: 24px;
   display: flex;
   align-items: center;
+}
+
+.logo-header {
+  margin-right: 76px;
 }
 
 .logo {
@@ -74,7 +78,6 @@ img {
   text-transform: uppercase;
   color: #2e2f42;
   text-decoration: none;
-  margin-right: 76px;
 }
 
 .header-nav {
@@ -323,7 +326,6 @@ button {
   padding: 32px 16px;
   border: 1px solid #e7e9fc;
   border-top: none;
-  margin-bottom: 8px;
 }
 
 .portfolio-item-name {
@@ -334,6 +336,7 @@ button {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  margin-bottom: 8px;
 }
 
 .portfolio-item-specification {
