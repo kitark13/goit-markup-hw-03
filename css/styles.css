@@ -34,9 +34,9 @@ img {
 
 .container {
   width: 1158px;
+  margin: 0 auto;
   padding-left: 15px;
   padding-right: 15px;
-  margin: 0 auto;
 }
 
 .header {
@@ -44,8 +44,6 @@ img {
 }
 
 .header-container {
-  padding-top: 24px;
-  padding-bottom: 24px;
   display: flex;
   align-items: center;
 }
@@ -89,6 +87,8 @@ img {
   display: flex;
   align-items: center;
   gap: 40px;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 .nav-link {
