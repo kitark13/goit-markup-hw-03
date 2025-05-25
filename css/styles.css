@@ -41,6 +41,8 @@ img {
 
 .header {
   border-bottom: 1px solid #e7e9fc;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 .header-container {
@@ -50,7 +52,6 @@ img {
 
 .logo-header {
   margin-right: 76px;
-  padding: 24px 0;
 }
 
 .logo {
@@ -82,14 +83,12 @@ img {
 .header-nav {
   display: flex;
   align-items: center;
-  padding: 24px 0;
 }
 
 .header-list {
   display: flex;
   align-items: center;
   gap: 40px;
-  padding: 24px 0;
 }
 
 .nav-item {
@@ -101,7 +100,6 @@ img {
   letter-spacing: 0.02em;
   color: #2e2f42;
   text-decoration: none;
-  padding: 24px 0;
 }
 
 .nav-link:hover,
@@ -118,7 +116,6 @@ img {
   display: flex;
   align-items: center;
   gap: 40px;
-  padding: 24px 0;
 }
 
 .address-item {
